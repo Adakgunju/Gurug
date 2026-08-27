@@ -77,4 +77,11 @@ separately through the official Telegram group.
 Handsome, but never boring.
 Be Your Own Legend.
 
+---
+
+## Whitepaper
+
+📄 [Read the Whitepaper](./GURUG-Whitepaper.md)
+📥 [Download PDF](./GURUG-Whitepaper-v1.0.pdf)
+
 🐸
