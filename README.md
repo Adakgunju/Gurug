@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="YOUR_GURUG_LOGO_URL" width="220">
+  <img src="https://github.com/Adakgunju/GURUG/blob/main/gurug-logo.png" width="220">
 </p>
 
 # GURUG 🐸
