@@ -1,71 +1,73 @@
-# 🐸 GURUG
+# GURUG
 
 ## The Yellowest Frog on Solana
 
-> **Handsome, but never boring.**  
-> **Be Your Own Legend.**
+> **Handsome, but never boring.**
+
+### Built on Culture. Driven by Community.
 
 ---
 
-## 1. Introduction
+## 1. Project Overview
 
-**GURUG** is a community-driven meme token built on the **Solana blockchain**.
+**GURUG** is a community-driven meme token built on the **Solana blockchain**, with a focus on culture, creativity, participation, and long-term community growth.
 
-GURUG was created around a simple idea:
+The project is centered around a distinctive yellow frog character that provides a recognizable identity for a broader social and creative ecosystem.
 
-> **Memecoins don't have to take themselves too seriously.**
+GURUG is designed to be more than a token people simply hold. It is intended to be a participatory project in which holders, creators, and community members can contribute to the culture surrounding the brand.
 
-GURUG combines **humor, creativity, community culture, and a recognizable character** to create a meme ecosystem that people can participate in, create with, and grow together.
-
-GURUG is not just a token.
-
-**GURUG is a character.**  
-**GURUG is a community.**  
-**GURUG is a journey.**
+> **A memorable character. A participatory culture. A community-driven project.**
 
 ---
 
-## 2. The GURUG Philosophy
+## 2. Vision
 
-GURUG represents **individuality, humor, creativity, and the freedom to go your own way.**
+The long-term vision of GURUG is to establish a recognizable and enduring meme culture on Solana.
 
-The GURUG character is intentionally simple and recognizable, while its personality can change endlessly.
+Memecoins are often driven by attention, but lasting communities are built through **identity, shared culture, creativity, and participation**.
 
-**Happy. Angry. Confused. Jealous. Excited. Ridiculous.**
+GURUG aims to develop these elements together.
 
-> **GURUG can be anything.**
-
-The philosophy is simple:
-
-### Handsome, but never boring.
-
-And above all:
-
-### Be Your Own Legend.
+The project does not attempt to predict exactly what the community will become. Instead, it seeks to create the foundation for a culture that can evolve organically as more people participate.
 
 ---
 
-## 3. Why GURUG?
+## 3. The GURUG Identity
 
-The memecoin ecosystem is built on **culture, attention, creativity, and community**.
+GURUG is built around a simple, recognizable character.
 
-GURUG aims to create a recognizable identity rather than simply launching another token.
+Its visual identity is intentionally distinctive, while its personality remains flexible enough to support a wide range of stories, situations, artwork, and community-created content.
 
-### The project focuses on:
+Humor is an important part of the GURUG identity, but it is not the entire identity.
 
-- 🐸 Memes
-- 🎭 Character-driven storytelling
-- 🤝 Community participation
-- 🎨 Creative content
-- 🌐 Social culture
-- 💧 Long-term liquidity development
-- 🚀 Exchange expansion
+The character provides a common visual language through which the community can create, communicate, and participate.
 
-The goal is to build a project that people don't simply **hold**, but also **participate in**.
+**Handsome, but never boring.**
+
+The phrase reflects the character's personality rather than serving as a financial promise or investment proposition.
 
 ---
 
-## 4. Token Information
+## 4. Culture & Community
+
+GURUG is built around participation.
+
+The community is not simply an audience observing a project from the outside. Community members can contribute directly to its culture through:
+
+- Memes and creative content
+- Artwork and visual storytelling
+- X campaigns and social activity
+- Community discussions
+- Collaborations
+- Grassroots initiatives
+
+The objective is to create an environment where participation itself becomes part of the value of the project.
+
+> **Built on Culture. Driven by Community.**
+
+---
+
+## 5. Token Information
 
 | Item | Information |
 |---|---|
@@ -77,81 +79,66 @@ The goal is to build a project that people don't simply **hold**, but also **par
 
 ---
 
-## 5. Liquidity
+## 6. Liquidity & Market Development
 
-Liquidity is one of the core priorities of the GURUG project.
+Sustainable liquidity is an important part of GURUG's development strategy.
 
-### Initial Liquidity Objective
+### Initial Liquidity Milestone
 
 # $100,000
 
-This milestone represents an important stage in the development of the GURUG ecosystem.
+Reaching this milestone is intended to mark an important stage in the project's market development.
 
-As liquidity grows, the project intends to pursue **deeper and more stable liquidity** while preparing for broader exchange accessibility.
+As liquidity develops, GURUG intends to pursue broader market accessibility and more stable trading conditions.
 
----
-
-## 6. Roadmap
-
-### Phase I — The Beginning
-
-- 🚀 Launch GURUG on Solana
-- 🐸 Establish the official GURUG identity
-- 🤝 Build the initial community
-- 🎨 Develop GURUG visual culture
-- 💧 Establish initial market liquidity
-
-### 2026 Goal
-
-# $100K Liquidity
-
-Additional goals:
-
-- 📊 CoinGecko listing
-- 📊 CoinMarketCap listing
-- 🐸 Community expansion
-- 🎨 Meme and content ecosystem development
+The project will prioritize responsible and transparent market development rather than short-term promotional activity.
 
 ---
 
-### Phase II — Building the Swamp
+## 7. Roadmap
 
-Beginning in **January 2027**, GURUG plans to focus on expanding its market presence.
+The GURUG roadmap is structured around progressive community and market development.
 
-Key objectives:
+### Phase I — Foundation
 
-- 🤝 Work with experienced market-making partners
-- 💧 Establish deeper and more stable liquidity
-- 🌱 Expand the GURUG community
-- 🤝 Develop strategic partnerships
-- 🚀 Begin CEX expansion efforts
+- Establish the GURUG brand and visual identity
+- Build the initial community
+- Develop a consistent content and meme culture
+- Establish and strengthen market liquidity
+- Pursue CoinGecko and CoinMarketCap listings
+- Reach the initial **$100K liquidity milestone**
+
+### Phase II — Expansion
+
+Beginning in **January 2027**, the project intends to expand its market and community presence.
+
+Key objectives include:
+
+- Collaboration with experienced market-making professionals
+- Development of deeper and more stable liquidity
+- Expansion of the GURUG creator and community network
+- Strategic partnerships and collaborations
+- Initiation of CEX expansion efforts
+
+### Phase III — Long-Term Development
+
+Over the longer term, GURUG may explore opportunities including:
+
+- Broader CEX accessibility
+- Community-led campaigns and initiatives
+- Brand collaborations
+- Merchandise and physical expressions of the GURUG identity
+- Digital collectibles and creative media
+- Character-driven content
+- Community events and ecosystem experiments
+
+These possibilities are **directional rather than guaranteed commitments** and will depend on community development, market conditions, resources, and the evolution of the project.
 
 ---
 
-### Phase III — The Legend
+## 8. Founding 100
 
-The long-term vision is to turn GURUG into a **recognizable meme culture and community beyond a single token.**
-
-Potential future development may include:
-
-- 🚀 Expanded CEX presence
-- 🤝 Community-driven campaigns
-- 👕 GURUG merchandise
-- 🖼️ Digital collectibles
-- 🎭 Character-based content
-- 🤝 Collaborations
-- 🌐 Community events
-- 🐸 GURUG ecosystem experiments
-
-> **The roadmap is intentionally flexible.**
->
-> **The swamp decides where we go next.**
-
----
-
-## 7. Founding 100
-
-GURUG plans to establish a group of **100 early X creators and influencers** who will help grow the project together.
+The **Founding 100** is an initiative intended to bring together 100 early X creators and influencers who want to participate in the development of GURUG.
 
 ### Eligibility
 
@@ -159,107 +146,92 @@ Creators with:
 
 **5,000+ X followers**
 
-and an active, genuine community may apply to participate.
+and an active, genuine audience may apply.
 
-### The Founding 100
+Selection will consider the quality and authenticity of the creator's community and their ability to contribute meaningfully to the GURUG ecosystem.
 
-The Founding 100 will help introduce GURUG to new communities through:
+### Participation
 
-- 🐸 X posts
-- 🎨 Memes
-- 🎭 Creative content
-- 🤝 Community engagement
-- 🚀 GURUG campaigns
+Founding 100 members may contribute through:
 
-### Founding 100 Reward
+- X content
+- Memes
+- Creative campaigns
+- Community engagement
+- Storytelling
+- Collaboration with other GURUG creators
 
-When GURUG reaches **$100K liquidity**, a designated percentage of GURUG tokens will be distributed among eligible Founding 100 participants.
+### Reward
 
-Full eligibility requirements, allocation methodology, distribution timing, and other conditions will be announced separately through the **official GURUG Telegram community**.
+When GURUG reaches the **$100K liquidity milestone**, a designated percentage of GURUG tokens is planned to be allocated among eligible Founding 100 participants.
 
----
+Detailed eligibility criteria, allocation methodology, distribution timing, and other conditions will be announced separately through the official GURUG Telegram community.
 
-## 8. Community
-
-GURUG is built around **participation**.
-
-The community is not simply an audience.
-
-> **The community is part of the project.**
-
-Everyone can contribute:
-
-- 🐸 Create memes
-- 📣 Share GURUG
-- 🎨 Create artwork
-- 💬 Participate in discussions
-- 🤝 Build community initiatives
-- 🌱 Introduce GURUG to new people
-
-The strongest meme communities are not created by a single person.
-
-# They are created together.
+Any allocation will be subject to the project's available token supply and applicable conditions at the time of distribution.
 
 ---
 
-## 9. Official Links
+## 9. Transparency & Development Principles
 
-### 🐦 X
+GURUG intends to develop through a gradual and transparent process.
 
-https://x.com/gurugsol
+The project will communicate major milestones, changes, and developments through its official channels.
 
-### 💬 Telegram
+As the project evolves, additional documentation may be added covering areas such as:
 
-https://t.me/gurugsol
+- Tokenomics
+- Liquidity information
+- Contract and security information
+- Exchange listings
+- Partnerships
+- Community initiatives
+- Project updates
 
-### 🌐 Website
+The roadmap may evolve as circumstances change.
 
-https://gurugsol.xyz
-
-### 🪐 Raydium
-
-https://raydium.io/swap/?inputMint=sol&outputMint=G8zUWL2mz8DJ16BrfDJPCo7657kJU3Y5NcrGZ6jtpBm5
-
-### 📊 Dexscreener
-
-https://dexscreener.com/solana/88a3l9i5khddtuepj1crt8yp8rjnowrgb7ssggou1qqe
-
-### 📈 CoinMarketCap
-
-https://dex.coinmarketcap.com/ko/token/solana/G8zUWL2mz8DJ16BrfDJPCo7657kJU3Y5NcrGZ6jtpBm5/
-
-### 📈 CoinGecko / GeckoTerminal
-
-https://www.geckoterminal.com/solana/pools/88a3L9i5KHddtUEPJ1crt8yp8RJNoWrgb7sSGGoU1qqe
+This flexibility is intentional: the project should respond to its community and to the broader market rather than being constrained by an inflexible timetable.
 
 ---
 
-## 10. Disclaimer
+## 10. Official Links
 
-GURUG is a meme token created for **entertainment, community participation, and cultural experimentation.**
-
-Nothing contained in this document should be interpreted as **financial, investment, legal, or other professional advice.**
-
-Cryptocurrency markets are highly volatile and participation involves significant risk.
-
-**Always conduct your own research before participating.**
-
----
-
-## 11. Final Words
-
-GURUG started with a simple character.
-
-But a character can become a story.
-
-A story can become a community.
-
-And a community can become a legend.
+- **X:** https://x.com/gurugsol
+- **Telegram:** https://t.me/gurugsol
+- **Website:** https://gurugsol.xyz
+- **Raydium:** https://raydium.io/swap/?inputMint=sol&outputMint=G8zUWL2mz8DJ16BrfDJPCo7657kJU3Y5NcrGZ6jtpBm5
+- **Dexscreener:** https://dexscreener.com/solana/88a3l9i5khddtuepj1crt8yp8rjnowrgb7ssggou1qqe
+- **Facebook:** https://www.facebook.com/gurugsol/
+- **GeckoTerminal:** https://www.geckoterminal.com/solana/pools/88a3L9i5KHddtUEPJ1crt8yp8RJNoWrgb7sSGGoU1qqe
+- **CoinMarketCap:** https://dex.coinmarketcap.com/ko/token/solana/G8zUWL2mz8DJ16BrfDJPCo7657kJU3Y5NcrGZ6jtpBm5/
 
 ---
 
-# Handsome, but never boring.
+## 11. Disclaimer
 
-## Be Your Own Legend.
+GURUG is a meme token created for entertainment, community participation, and cultural experimentation.
 
-🐸💛
+Nothing in this document constitutes financial, investment, legal, tax, or other professional advice.
+
+Cryptocurrency markets are highly volatile and participation involves significant risk. Nothing in this document should be interpreted as a promise, guarantee, or prediction of future value, returns, listings, or market performance.
+
+Readers should conduct their own research and consider their own circumstances before participating.
+
+---
+
+## 12. Closing Statement
+
+GURUG begins with a character, but its direction is shaped by the people who choose to participate.
+
+The ambition is simple:
+
+**Build something recognizable.  
+Build something creative.  
+Build something together.**
+
+> **Handsome, but never boring.**
+>
+> **Built on Culture. Driven by Community.**
+
+**GURUG**
+
+🐸
