@@ -81,7 +81,7 @@ Be Your Own Legend.
 
 ## 📄 Whitepaper
 
-📖 [Read the Whitepaper](./docs/GURUG_Whitepaper_v1.0.md)
-📥 [Download PDF](./docs/GURUG_Whitepaper_v1.0.pdf)
+📖 [Read the Whitepaper](./docs/GURUG_Whitepaper_v1.1.md)
+📥 [Download PDF](./docs/GURUG_Whitepaper_v1.1.pdf)
 
 🐸
