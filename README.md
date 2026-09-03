@@ -67,6 +67,8 @@ separately through the official Telegram group.
 - Website: https://gurugsol.xyz
 - Dexscreener: https://dexscreener.com/solana/88a3l9i5khddtuepj1crt8yp8rjnowrgb7ssggou1qqe
 - Facebook: https://www.facebook.com/gurugsol/
+- Instagram: https://www.instagram.com/gurugcoin/
+- Bluesky: https://bsky.app/profile/gurugsol.bsky.social
 - Geckoterminal: https://www.geckoterminal.com/solana/pools/88a3L9i5KHddtUEPJ1crt8yp8RJNoWrgb7sSGGoU1qqe?utm_source=coingecko&utm_medium=referral&utm_campaign=searchresults
 - CoinMarketCap: https://dex.coinmarketcap.com/ko/token/solana/G8zUWL2mz8DJ16BrfDJPCo7657kJU3Y5NcrGZ6jtpBm5/
 
