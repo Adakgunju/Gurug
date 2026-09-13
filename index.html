@@ -65,7 +65,6 @@ const backgrounds={home:A.lake,store:A.city,rank:A.grass,challenge:A.field,profi
 function save(){
   localStorage.setItem("gurugColorSave",JSON.stringify(s));
   localStorage.setItem("gurugPlayers",JSON.stringify(players));
-  syncRemote();
 }
 function load(){
   try{s={...s,...JSON.parse(localStorage.getItem("gurugColorSave")||"{}")}}catch(e){}
