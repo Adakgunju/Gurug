@@ -108,6 +108,7 @@ $("save").onclick=async()=>{
   $("cloudStatus").textContent="클라우드 저장 중…";
   const result=await syncRemote();
   if(result.ok){
+    localStorage.setItem("gurugCloudSaved","true");
     $("cloudStatus").textContent="클라우드 저장 상태: 저장 완료";
     note("프로필과 플레이어 정보가 Supabase에 저장되었습니다.");
     await loadRemoteRanks();
@@ -116,10 +117,22 @@ $("save").onclick=async()=>{
     note("프로필은 이 브라우저에 저장되었지만 클라우드 저장에 실패했습니다.");
   }
 };
-$("reset").onclick=()=>{if(confirm("모든 진행 상황을 초기화할까요?")){localStorage.removeItem("gurugColorSave");location.reload()}};
+$("reset").onclick=()=>{if(confirm("모든 진행 상황을 초기화할까요?")){localStorage.removeItem("gurugColorSave");localStorage.removeItem("gurugCloudSaved");location.reload()}};
 $("start").onclick=()=>{s.created=true;s.name=$("createName").value.trim()||"Adak";s.wallet=$("createWallet").value.trim();save();$("modal").classList.remove("show");render()};
-load();if(s.created)$("modal").classList.remove("show");render();show("home");loadRemoteRanks();
+load();
+
+if(s.created)$("modal").classList.remove("show");
+
+render();
+
+if(localStorage.getItem("gurugCloudSaved")==="true"){
+  $("cloudStatus").textContent="클라우드 저장 상태: 저장 완료";
+}
+
+show("home");
+loadRemoteRanks();
 setInterval(()=>{if(s.energy<s.capacity){s.energy=Math.min(s.capacity,s.energy+1);save();render()}},1000);
 </script>
 </body>
 </html>
+
